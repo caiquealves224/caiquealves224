@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Voltando a usar essa plataforma então:
+
+🚧 **Readme em construção** 🚧
 <!--
 **caiquealves224/caiquealves224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
