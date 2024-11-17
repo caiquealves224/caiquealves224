@@ -44,9 +44,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiquealves224&show_icons=true&locale=en&layout=compact" alt="caiquealves224" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiquealves224&show_icons=true&locale=en&layout=compact&theme=react" alt="caiquealves224" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caiquealves224&" alt="caiquealves224" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caiquealves224&theme=react" alt="caiquealves224" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
