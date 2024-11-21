@@ -50,6 +50,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caiquealves224&theme=react" alt="caiquealves224" /></p>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/caique-santos/" target="blank">
+<a href="https://linkedin.com/in/caique-santos/" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
 </a>
