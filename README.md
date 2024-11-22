@@ -45,11 +45,6 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
-<p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiquealves224&theme=react" alt="caiquealves224" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiquealves224&show_icons=true&locale=en&layout=compact&theme=react" alt="caiquealves224" />
-</p>
-
 <p> 
  💻 Setup<br/><br/>
  <img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white" /> 
@@ -67,4 +62,9 @@
  <a href="https://www.instagram.com/caiq_alvez/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a>
+</p>
+
+<p>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiquealves224&theme=react" alt="caiquealves224" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiquealves224&show_icons=true&locale=en&layout=compact&theme=react" alt="caiquealves224" />
 </p>
