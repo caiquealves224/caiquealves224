@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **Very competitive**
 
-<h3 align="left">Languages:</h3>
+<span align="left">Languages:</span>
 <p align="left"> 
 <!--   javascript -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -25,7 +25,7 @@
 
 </p>
 
- <h3>and Tools</h3>
+ <span>and Tools</span>
 <p>
   <!--   linux -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
