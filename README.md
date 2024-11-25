@@ -65,6 +65,6 @@
 </p>
 
 <p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiquealves224&theme=react" alt="caiquealves224" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiquealves224&theme=react&locale=pt_BR&card_height=170" alt="caiquealves224" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiquealves224&show_icons=true&locale=en&layout=compact&theme=react" alt="caiquealves224" />
 </p>
