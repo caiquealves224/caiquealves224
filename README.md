@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **@Jusfy**
 
-- 🌱 I’m currently learning **Go, Kotlin**
+- 🌱 I’m currently learning **Ruby, Kotlin**
 
 - 💬 Ask me about **Javascript, Typescript**
 
