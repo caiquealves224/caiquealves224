@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **@Jusfy**
 
-- 🌱 I’m currently learning **Ruby, Kotlin**
+- 🌱 I’m currently learning **Go, Ruby**
 
 - 💬 Ask me about **Javascript, Typescript**
 
@@ -20,8 +20,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <!--   golang -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-<!--   kotil -->
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
 
 </p>
 
