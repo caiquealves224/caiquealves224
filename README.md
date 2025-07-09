@@ -47,6 +47,10 @@
  <br/>
 </p>
 
+<p>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiquealves224&theme=react&locale=pt_BR&card_height=170" alt="caiquealves224" />
+</p>
+
 <p> Connect with me </p>
 <p>
  <a href="https://linkedin.com/in/caique-santos/">
@@ -55,8 +59,4 @@
  <a href="https://www.instagram.com/caiq_alvez/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a>
-</p>
-
-<p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiquealves224&theme=react&locale=pt_BR&card_height=170" alt="caiquealves224" />
 </p>
