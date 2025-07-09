@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **caiquealves224@gmail.com**
 
-- ⚡ Fun fact **Very competitive**
+- ⚡ Fun fact **Eternal apprentice**
 
 <span align="left">Languages:</span>
 <p align="left"> 
@@ -23,10 +23,8 @@
 
 </p>
 
- <span>and Tools</span>
+ <span>Tools</span>
 <p>
-  <!--   linux -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <!--   kafka -->
 <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
   <!-- aws -->
@@ -49,18 +47,8 @@
  <img src="https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
- <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
  <br/>
- And
- <br/>
-
- <img src="https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white" />
- <img src="https://img.shields.io/badge/Intel%20Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
- <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
- <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
- <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
- 
 </p>
 
 <p> Connect with me </p>
@@ -75,5 +63,4 @@
 
 <p>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiquealves224&theme=react&locale=pt_BR&card_height=170" alt="caiquealves224" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiquealves224&show_icons=true&locale=en&layout=compact&theme=react" alt="caiquealves224" />
 </p>
