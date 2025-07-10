@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Caique Alves</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
 <img src="./qgQUggAC3Pfv687qPC.webp" align="right" width="300" />
 
 - 🔭 I’m currently working on **@Jusfy**
