@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **caiquealves224@gmail.com**
 
-- ⚡ Fun fact **Eternal apprentice**
-
 <span align="left">Languages:</span>
 <p align="left"> 
 <!--   javascript -->
