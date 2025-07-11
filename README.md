@@ -34,6 +34,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
+<!--
 <p> 
  💻 Setup<br/><br/>
  <img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white" /> 
@@ -43,6 +44,7 @@
 
  <br/>
 </p>
+-->
 
 <p>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiquealves224&theme=react&locale=pt_BR&card_height=170" alt="caiquealves224" />
