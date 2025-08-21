@@ -55,7 +55,4 @@
  <a href="https://linkedin.com/in/caique-santos/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
  </a> 
- <a href="https://www.instagram.com/caiq_alvez/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
- </a>
 </p>
