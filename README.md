@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caique Alves</h1>
 <img src="./qgQUggAC3Pfv687qPC.webp" align="right" width="300" />
 
-- 🔭 I’m currently working on **@Jusfy**
+<!-- - 🔭 I’m currently working on **@Jusfy** -->
 
 - 🌱 I’m currently learning **Go, Ruby**
 
