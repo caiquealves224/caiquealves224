@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on **@Jusfy** -->
 
-- 🌱 I’m currently learning **Go, Ruby**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **Javascript, Typescript**
 
